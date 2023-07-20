@@ -20,6 +20,7 @@ The tech stack of the project is HTML, CSS or JS.
 14. Gymnastics
 15. Cycling
 
+
 **To create a comprehensive and informative webpage, you can include the following details for each sport**
 
 * **Sport Overview:** Provide a brief introduction to the sport, its history, and its popularity worldwide.
@@ -40,6 +41,7 @@ The tech stack of the project is HTML, CSS or JS.
 * **Responsive Design:** Ensure that the website is responsive, allowing users to access it on different devices like desktops, tablets, and smartphones.
 
 Remember to keep the website user-friendly and visually appealing. Organize the information in a structured manner, making it easy for visitors to navigate and find the details they are interested in.
+
 
 
 **How to Contribute to Issues**
