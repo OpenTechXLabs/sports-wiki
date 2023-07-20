@@ -22,6 +22,7 @@ The tech stack of the project is HTML, CSS or JS.
 
 
 **How to Contribute to Issues**
+
 For any issue, there are fundamentally three ways an individual can contribute:
 
 1. By opening the issue for discussion: If you believe that you have found a new bug in Electron, you should report it by creating a new issue.
