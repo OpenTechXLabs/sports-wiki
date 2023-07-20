@@ -20,6 +20,27 @@ The tech stack of the project is HTML, CSS or JS.
 14. Gymnastics
 15. Cycling
 
+**To create a comprehensive and informative webpage, you can include the following details for each sport**
+
+* **Sport Overview:** Provide a brief introduction to the sport, its history, and its popularity worldwide.
+* **Rules and Regulations:** Explain the basic rules and regulations of the sport, including scoring, fouls, and penalties.
+* **Equipment and Gear:** List the essential equipment and gear required to play the sport, along with any safety guidelines.
+* **Playing Field/Court:** Describe the dimensions and layout of the playing field or court used for the sport.
+* **Popular Leagues and Tournaments:** Highlight major leagues, tournaments, and competitions associated with the sport.
+* **Famous Players:** Feature some of the most renowned athletes who have excelled in the sport.
+* **History and Evolution:** Provide insights into how the sport has evolved over time and any significant milestones.
+* **Health Benefits:** Discuss the physical and mental health benefits of participating in the sport.
+* **Training and Coaching:** Offer tips on training techniques and the importance of coaching in improving skills.
+* **Sportsmanship and Values:** Emphasize the values of sportsmanship, teamwork, and fair play associated with the sport.
+* **Different Formats or Variants:** If the sport has various formats or variants, explain each one and its unique characteristics.
+* **Photos and Videos:** Include high-quality images and videos showcasing the sport in action.
+* **Upcoming Events:** Provide information about upcoming events, matches, or competitions related to the sport.
+* **Resources and Links:** Include links to official websites, governing bodies, and reputable sources for further exploration.
+* **User Interaction:** Consider adding a comment section or forums where users can share their experiences and opinions.
+* **Responsive Design:** Ensure that the website is responsive, allowing users to access it on different devices like desktops, tablets, and smartphones.
+
+Remember to keep the website user-friendly and visually appealing. Organize the information in a structured manner, making it easy for visitors to navigate and find the details they are interested in.
+
 
 **How to Contribute to Issues**
 
